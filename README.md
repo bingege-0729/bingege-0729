@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- GitHub Star link -->
-<p align="center">
-</p>
 
 <details open> 
   <summary><h2>🌠 Top Sponsors</h2></summary>
@@ -64,7 +62,6 @@ Here are some ideas to get you started:
 </details>
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
