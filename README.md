@@ -24,24 +24,16 @@
 
 ## 💻 Tech Stack (Feel free to customize or delete)
 
-- ⚙️ **Languages:** `Java`, `Python`, `JavaScript`, `C`, `Go`
-- 🏗️ **Frameworks:** `Spring`, `Django`, `React`, `Express`
-- ☁️ **Cloud & Tools:** `Docker`, `Kubernetes`, `Git`, `Linux`, `VS Code`
-- 🧪 **Others:** `CI/CD`, `REST APIs`, `Microservices`
+- ⚙️ **Languages:** `Java`, `Python`, `JavaScript`, `C`, `HTML`
+- 🏗️ **Frameworks:** `Spring`
+- ☁️ **Cloud & Tools:** `Git`,  `VS Code`
+- 🧪 **Others:** 
 
-> *You can remove this section or leave it blank for a minimalist look.*
+
 
 ---
 
-## 🚀 Projects (Optional – Add your real projects or delete)
 
-Example project links (replace with yours or delete the whole section):
-
-- [🔐 Anonymous Message Board](https://github.com/bingege-0729/anonymous-board) — A secure, anonymous posting platform.
-- [📊 Dev Utils](https://github.com/bingege-0729/dev-utils) — A collection of developer utilities.
-- [🌍 Open Source Contributions](https://github.com/bingege-0729/contributions) — My journey in open source.
-
-> *Replace `bingege-0729` with your repo username if needed, or delete this section entirely.*
 
 ---
 
