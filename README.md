@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/bingege-0729">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="bingege-0729" /></a>
 </p>
 
 <p align="center">
@@ -34,24 +34,17 @@ Here are some ideas to get you started:
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://www.youtube.com/c/bingege-0729?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/c/bingege-0729">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/bingege-0729?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bingege-0729?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/bingege-0729?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bingege-0729?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/bingege-0729/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/bingege-0729-profile-views"/></a>
 </p>
-
 <br/>
 
 <!-- GitHub Star link -->
 <p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
 
 <details open> 
@@ -59,26 +52,15 @@ Here are some ideas to get you started:
 
   <table>
     <tr>
-      <!-- <th>$10+/month</th> -->
+    
       <th>$5+/month</th>
     </tr>
     <tr>
-      <!-- $10+/month -->
-      <!-- <td>
-        <div align="center">
-          <a href="https://github.com/username"><img src="https://github.com/username" alt="@username" width="52" /></a>
-          <br />
-          <a align="center" href="https://github.com/username"><b>Full Name</b></a>
-        </b>
-      </td> -->
-      <!-- $5+/month -->
-      <td>
-        <a href="https://github.com/typesense"><img src="https://custom-icon-badges.demolab.com/badge/-typesense-D90368?style=for-the-badge&logo=mention" alt="typesense" /></a>
-      </td>
-    </tr>
+      
+    
   </table>
 
-  <a href="https://github.com/sponsors/DenverCoder1/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
+  <a href="https://github.com/sponsors/bingege-0729/"><img alt="More about my sponsorship tiers" title="Sponsorship Tiers" src="https://custom-icon-badges.demolab.com/badge/-More%20About%20My%20Sponsorship%20Tiers-1F222E?style=for-the-badge&logoColor=white&logo=link-external"/></a>
 </details>
 
 <details open> 
@@ -87,7 +69,7 @@ Here are some ideas to get you started:
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/bingege-0729/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
