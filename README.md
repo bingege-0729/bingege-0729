@@ -1,57 +1,53 @@
-<!-- 文件名：README.md -->
+<!-- 
+  ✨ Dynamic GitHub Profile for bingege-0729
+  Backend Engineer | System Builder | Open Source Contributor
+-->
 
+<h1 align="center">Hi, I'm bingege 👋</h1>
 <p align="center">
-  <!-- 打字机效果的 "Anonymous" SVG 动画，居中显示 -->
   <a href="https://github.com/bingege-0729">
-    
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=A9B7C6&center=true&vCenter=true&width=600&lines=Backend+Engineer;Building+Scalable+Systems;Go%2FJava%2FPython+Enthusiast;Open+to+Collaboration" alt="Typing SVG" />
   </a>
 </p>
 
-# 👤 Anonymous
-
-> 🕯️ I am a developer who values code over identity. No name. No fame. Just anonymous, clean code.
-
----
-
-## 🧠 About Me (Optional)
-
-- **🔒 Identity:** Anonymous
-- **💻 Focus:** Backend, Full-stack, Open Source, DevOps
-- **🎯 Mission:** Learn. Code. Contribute. Stay anonymous.
-- **🛡️ Privacy:** No personal details shared. Just pure development.
+<p align="center">
+  <a href="https://github.com/bingege-0729?tab=repositories">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingege-0729&layout=compact&theme=onedark&hide=html,css" />
+  </a>
+  <a href="https://github.com/bingege-0729">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bingege-0729&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide=contribs" />
+  </a>
+</p>
 
 ---
 
-## 💻 Tech Stack (Feel free to customize or delete)
+### 🛠️ Tech Stack
 
-- ⚙️ **Languages:** `Java`, `Python`, `JavaScript`, `C`, `HTML`
-- 🏗️ **Frameworks:** `Spring`
-- ☁️ **Cloud & Tools:** `Git`,  `VS Code`
-- 🧪 **Others:** 
-
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,java,python,nodejs,mysql,postgres,redis,mongodb,docker,kubernetes,aws,gcp,linux,git,nginx" />
+</p>
 
 ---
 
+### 📈 Activity Graph
 
-
----
-
-## 🤝 Let's Connect (Anonymously)
-
-- 💬 **Questions?** Open an issue or discussion on any of my repos.
-- 🐙 **GitHub:** [github.com/bingege-0729](https://github.com/bingege-0729)
-- 📧 **Email:** Not provided — I value privacy.
-- 🌐 **Website:** Not available — Keeping it anonymous.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bingege-0729&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
-## 🙏 Credits & Tools Used
+### 📬 How to Reach Me
 
-- ✨ **Typing Animation:** [readme-typing-svg](https://readme-typing-svg.herokuapp.com/)
-- 🌐 **GitHub:** For hosting this anonymous profile
-- 🧠 **You:** For being curious about anonymous coding
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-> ⚠️ **Disclaimer:** This is a **100% anonymous** GitHub profile. No personal data is shared by design.
+> 💡 *Profile auto-refreshed daily. Code commits speak louder than words.*
