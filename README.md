@@ -36,18 +36,14 @@
 </p>
 
 ---
-
+/**
 ### 📬 How to Reach Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:2509094405@qq.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
-
 ---
 
 > 💡 *Profile auto-refreshed daily. Code commits speak louder than words.*
