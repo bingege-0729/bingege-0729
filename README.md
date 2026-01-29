@@ -36,7 +36,6 @@
 </p>
 
 ---
-/**
 ### 📬 How to Reach Me
 
 <p align="center">
