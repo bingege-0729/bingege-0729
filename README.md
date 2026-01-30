@@ -12,13 +12,19 @@
 
 <p align="center">
   <a href="https://github.com/bingege-0729?tab=repositories">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingege-0729&layout=compact&theme=onedark&hide=html,css" />
+    <img alt="Top Langs" src="https://my-github-stats-kappa.vercel.app/api/top-langs/?username=bingege-0729&layout=compact&theme=onedark&hide=html,css" />
   </a>
   <a href="https://github.com/bingege-0729">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bingege-0729&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide=contribs" />
+    <img alt="GitHub Stats" src="https://my-github-stats-kappa.vercel.app/api?username=bingege-0729&show_icons=true&theme=onedark" />
   </a>
 </p>
-
+<!-- GitHub Snake -->
+<img src="https://raw.githubusercontent.com/bingege-0729/bingege-0729/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <a href="https://blog.csdn.net/anonymous_zb">
+    <img src="https://img.shields.io/badge/Blog-Read%20My%20Articles-blue?logo=rss" />
+  </a>
+</p>
 ---
 
 ### 🛠️ Tech Stack
