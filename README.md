@@ -25,7 +25,6 @@
     <img src="https://img.shields.io/badge/Blog-Read%20My%20Articles-blue?logo=rss" />
   </a>
 </p> -->
----
 
 ### 🛠️ Tech Stack
 
@@ -50,6 +49,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 ---
 
 > 💡 *Profile auto-refreshed daily. Code commits speak louder than words.*
