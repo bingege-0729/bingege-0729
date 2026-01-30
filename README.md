@@ -19,12 +19,12 @@
   </a>
 </p>
 <!-- GitHub Snake -->
-<img src="https://raw.githubusercontent.com/bingege-0729/bingege-0729/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/bingege-0729/bingege-0729/output/snake.svg" alt="Snake animation" />
 <p align="center">
   <a href="https://blog.csdn.net/anonymous_zb">
     <img src="https://img.shields.io/badge/Blog-Read%20My%20Articles-blue?logo=rss" />
   </a>
-</p>
+</p> -->
 ---
 
 ### 🛠️ Tech Stack
