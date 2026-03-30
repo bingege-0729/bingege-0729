@@ -48,6 +48,9 @@
   <a href="mailto:2509094405@qq.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://blog.csdn.net/anonymous_zb">
+    <img src="https://img.shields.io/badge/CSDN-FF4C29?style=flat&logo=csdn&logoColor=white" alt="CSDN" />
+  </a>
 </p>
 
 ---
