@@ -3,7 +3,7 @@
   Backend Engineer | System Builder | Open Source Contributor
 -->
 
-<h1 align="center">Hi, I'm bingege 👋</h1>
+<h1 align="center">Hi, I'm Nomade 👋</h1>
 <p align="center">
   <a href="https://github.com/bingege-0729">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=A9B7C6&center=true&vCenter=true&width=600&lines=Backend+Engineer;Building+Scalable+Systems;Go%2FJava%2FPython+Enthusiast;Open+to+Collaboration" alt="Typing SVG" />
