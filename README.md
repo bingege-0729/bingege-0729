@@ -26,6 +26,8 @@
   </a>
 </p> -->
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ### 🛠️ Tech Stack
 
 <p align="center">
