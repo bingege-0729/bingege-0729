@@ -1,7 +1,7 @@
 name: Generate 3D Contrib
 
 on:
-  # 每天自动运行一次 (UTC时间 00:00，即北京时间早上8点)
+  # 每天自动运行一次
   schedule:
     - cron: "0 0 * * *"
   # 允许手动触发
@@ -11,21 +11,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+
     steps:
       # 1. 拉取代码
       - uses: actions/checkout@v3
 
-      # 2. 运行生成脚本
-      - uses: yuzutech/github-profile-3d-contrib
+      # 2. 运行生成脚本 (换用了更稳定的 gh-user-contrib 版本)
+      - uses: gh-user-contrib/github-profile-3d-contrib@latest
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 直接复制这一行，不用改！
-          USERNAME: "bingege-0729" # 这里填你的用户名
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: "bingege-0729"
 
-      # 3. 提交生成的图片到你的仓库
+      # 3. 提交生成的图片到仓库
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "generated" || exit 0
+          git commit -m "chore: update 3d contrib images" || exit 0
           git push
