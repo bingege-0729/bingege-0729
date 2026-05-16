@@ -12,16 +12,20 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
+      # 1. 拉取代码
       - uses: actions/checkout@v3
-      - uses: yuzutech/github-profile-3d-contrib@latest # 注意：原作者仓库可能已归档，这里使用社区维护的兼容版本或原版
+
+      # 2. 运行生成脚本
+      - uses: ryo-ma/github-profile-3d-contrib@v0.8.0
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: bingege-0729
-      # 自动提交生成的图片到仓库
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 直接复制这一行，不用改！
+          USERNAME: "bingege-0729" # 这里填你的用户名
+
+      # 3. 提交生成的图片到你的仓库
       - name: Commit and Push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "chore: update 3d contrib graph" || exit 0
+          git commit -m "generated" || exit 0
           git push
