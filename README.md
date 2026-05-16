@@ -26,7 +26,7 @@
   </a>
 </p> -->
 
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%">
+
 
 ### 🛠️ Tech Stack
 
@@ -43,7 +43,8 @@
 </p>
 
 ---
-
+### Personal Distribution
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%">
 ### 📬 How to Reach Me
 
 <p align="center">
