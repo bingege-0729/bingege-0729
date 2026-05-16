@@ -13,22 +13,22 @@ jobs:
     name: generate-github-profile-3d-contrib
 
     steps:
-      # 1. 拉取代码 (使用 v4，忽略那个 Node.js 警告，它不影响运行)
+      # 1. 拉取代码
       - uses: actions/checkout@v4
 
-      # 2. 运行生成脚本
-      - name: GitHub-Profile-3D-Contrib
-        uses: yoshi389111/github-profile-3d-contrib@v0.9.2
+      # 2. 生成 3D 图 (这里修复了 Token 传递问题)
+      - name: Generate 3D Contrib
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: "bingege-0729"
 
-      # 3. 提交更改 (这是最容易出错的地方，请使用下面这段标准的提交代码)
+      # 3. 提交图片
       - name: Commit and Push
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          # 如果没有任何更改，git commit 会失败，所以我们在后面加了 || exit 0 来忽略这种“没有更改”的错误
-          git commit -m "chore: update 3d contrib images" || exit 0
+          # 如果没有变化，git commit 会报错，所以用 || exit 0 忽略错误
+          git commit -m "chore: update 3d contrib" || exit 0
           git push
