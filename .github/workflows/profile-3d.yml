@@ -14,7 +14,7 @@ jobs:
 
     steps:
       # 1. 拉取代码 (必须，否则没有地方生成文件)
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       # 2. 运行生成脚本 (使用官方原版 Action)
       - name: GitHub-Profile-3D-Contrib
