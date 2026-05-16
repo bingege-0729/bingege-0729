@@ -1,7 +1,7 @@
 name: Generate 3D Contrib
 
 on:
-  # 每天自动运行一次
+  # 每天自动运行一次 (北京时间早上8点)
   schedule:
     - cron: "0 0 * * *"
   # 允许手动触发
@@ -13,11 +13,12 @@ jobs:
     name: generate-github-profile-3d-contrib
 
     steps:
-      # 1. 拉取代码
+      # 1. 拉取代码 (必须，否则没有地方生成文件)
       - uses: actions/checkout@v3
 
-      # 2. 运行生成脚本 (换用了更稳定的 gh-user-contrib 版本)
-      - uses: gh-user-contrib/github-profile-3d-contrib@latest
+      # 2. 运行生成脚本 (使用官方原版 Action)
+      - name: GitHub-Profile-3D-Contrib
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.2
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: "bingege-0729"
