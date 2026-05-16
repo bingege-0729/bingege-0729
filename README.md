@@ -26,7 +26,7 @@
   </a>
 </p> -->
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%">
 
 ### 🛠️ Tech Stack
 
