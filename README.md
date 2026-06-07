@@ -14,9 +14,9 @@
   <a href="https://github.com/bingege-0729?tab=repositories">
     <img alt="Top Langs" src="https://my-github-stats-kappa.vercel.app/api/top-langs/?username=bingege-0729&layout=compact&theme=onedark&hide=html,css" />
   </a>
-  <a href="https://github.com/bingege-0729">
+  <!-- <a href="https://github.com/bingege-0729">
     <img alt="GitHub Stats" src="https://my-github-stats-kappa.vercel.app/api?username=bingege-0729&show_icons=true&theme=onedark" />
-  </a>
+  </a> -->
 </p>
 <!-- GitHub Snake -->
 <!-- <img src="https://raw.githubusercontent.com/bingege-0729/bingege-0729/output/snake.svg" alt="Snake animation" />
@@ -26,6 +26,12 @@
   </a>
 </p> -->
 
+---
+
+
+<h3>Personal Distribution</h3>
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%">
 
 
 ### 🛠️ Tech Stack
@@ -51,8 +57,7 @@
 </p>
 
 ---
-### Personal Distribution
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%">
+
 <h3>📬 How to Reach Me</h3> 
 
 <p align="center">
