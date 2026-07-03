@@ -6,8 +6,6 @@ on:
     - cron: "0 0 * * *"
   # 允许手动触发
   workflow_dispatch:
-permissions:
-    contents: write           # 推到 metrics 分支用
 jobs:
   build:
     runs-on: ubuntu-latest
