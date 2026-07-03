@@ -5,7 +5,7 @@ on:
     workflow_dispatch:        # 允许手动触发立刻刷新
 
 permissions:
-    contents: main           # 推到 metrics 分支用
+    contents: write           # 推到 metrics 分支用
 jobs:
   metrics:
     runs-on: ubuntu-latest
