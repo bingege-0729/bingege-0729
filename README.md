@@ -9,7 +9,30 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=A9B7C6&center=true&vCenter=true&width=600&lines=AI+Backend+Engineer;Building+Scalable+Systems;Go%2FJava%2FPython+Enthusiast;Open+to+Collaboration" alt="Typing SVG" />
   </a>
 </p>
+<details open>
+<summary><b>Backend &amp; Frameworks</b></summary>
+<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+ <!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" /> -->
+</p>
+</details>
 
+<details open>
+<summary><b>Data &amp; Infrastructure</b></summary>
+<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+</details>
 <p align="center">
   <a href="https://github.com/bingege-0729?tab=repositories">
     <img alt="Top Langs" src="https://my-github-stats-kappa.vercel.app/api/top-langs/?username=bingege-0729&layout=compact&theme=onedark&hide=html,css" />
