@@ -1,11 +1,16 @@
 # bingege-0729
 
+## About Me
+
+Backend developer focused on scalable systems and AI-enabled products.
+
 ## Language Usage
 
 <p>
   <img
     alt="Most used languages"
-    src="https://my-github-stats-kappa.vercel.app/api/top-langs/?username=bingege-0729&layout=compact&theme=onedark&hide=html,css"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingege-0729&layout=compact&theme=onedark&hide=html,css"
+    width="600"
   />
 </p>
 
@@ -30,3 +35,7 @@
 ## Personal Distribution
 
 <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="GitHub contribution distribution" />
+
+## Contact
+
+[Email](mailto:2509094405@qq.com) · [CSDN Blog](https://blog.csdn.net/anonymous_zb)
