@@ -2,7 +2,9 @@
   <h1>Nomade</h1>
   <p>Backend Engineer | AI Application Builder | Open Source Contributor</p>
   <p>
-    <a href="mailto:2509094405@qq.com" aria-label="Send email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" height="24" alt="Email" /></a>
+    <a href="mailto:abing3952@gmail.com" aria-label="Send Gmail"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" height="24" alt="Gmail" /></a>
+    &nbsp;&nbsp;
+    <a href="mailto:2509094405@qq.com" aria-label="Send QQ email"><img src="https://img.icons8.com/ios-filled/48/1f6feb/new-post.png" width="24" height="24" alt="QQ Email" /></a>
     &nbsp;&nbsp;
     <a href="https://blog.csdn.net/anonymous_zb" aria-label="Visit CSDN blog"><img src="https://cdn.simpleicons.org/csdn/FC5531" width="24" height="24" alt="CSDN Blog" /></a>
   </p>
