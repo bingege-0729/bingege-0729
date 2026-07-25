@@ -29,7 +29,7 @@
 | [**WenJi**](https://github.com/bingege-0729/WenJi) | AI platform for preserving and sharing intangible cultural heritage through knowledge Q&A and multimodal interaction. | Java, Spring Boot, Vue, AI |
 | [**take-out**](https://github.com/bingege-0729/take-out) | Campus food-delivery system covering ordering and order management. | Java, MySQL, Redis |
 
-## Merged Open Source Contributions
+<!--## Merged Open Source Contributions
 
 | Contribution | Summary | Tech Stack |
 | :--- | :--- | :--- |
@@ -38,7 +38,7 @@
 | [**NeoScholar #9**](https://github.com/VibingzzZ/NeoScholar/pull/9) | JWT authentication, authorization, Docker deployment, and test improvements. | Spring Security, JWT, Docker |
 | [**NeoScholar #4**](https://github.com/VibingzzZ/NeoScholar/pull/4) | CI environment configuration and database initialization scripts. | GitHub Actions, MySQL |
 | [**NeoScholar #2**](https://github.com/VibingzzZ/NeoScholar/pull/2) | Asynchronous student-profile merging. | Java, Spring Boot, CompletableFuture |
-
+-->
 ## Personal Distribution
 
 <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="GitHub contribution distribution" />
