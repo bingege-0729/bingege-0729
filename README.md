@@ -26,7 +26,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [**Corner**](https://github.com/bingege-0729/Corner) | Personalized micro-mobility decisions based on emotion awareness. | Java, Spring Boot, LangChain4j, Vue |
-| [**WenJi**](https://github.com/bingege-0729/WenJi) | AI platform for preserving and sharing intangible cultural heritage through knowledge Q&A and multimodal interaction. | Java, Spring Boot, Vue, AI |
+| [**WenJi**](https://github.com/bingege-0729/WenJi) | AI platform for preserving and sharing intangible cultural heritage through knowledge Q&A and multimodal interaction. | Java, Spring Boot, Vue, Langchain4j，Redis |
 | [**take-out**](https://github.com/bingege-0729/take-out) | Campus food-delivery system covering ordering and order management. | Java, MySQL, Redis |
 
 <!--## Merged Open Source Contributions
