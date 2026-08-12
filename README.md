@@ -10,9 +10,9 @@
 
 </div>
 
-## Development Overview
+<h2>Development Overview</h2>
 
-<table>
+<table width="100%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
       <strong>Most Used Languages</strong><br /><br />
@@ -21,10 +21,29 @@
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <strong>Coding Time</strong><br /><br />
-      <a href="https://github.com/stats-organization/github-stats-extended">
-        <img width="100%" src="https://github-stats-extended.vercel.app/api/wakatime?username=bingege-0729&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent" alt="WakaTime coding activity" />
-      </a>
+      <strong>Tech Stack</strong><br /><br />
+      <table width="100%">
+        <tr>
+          <th align="left">Category</th>
+          <th align="left">Technologies</th>
+        </tr>
+        <tr>
+          <td align="left"><strong>Backend</strong></td>
+          <td align="left">Java, Spring Boot</td>
+        </tr>
+        <tr>
+          <td align="left"><strong>AI</strong></td>
+          <td align="left">LangChain4j</td>
+        </tr>
+        <tr>
+          <td align="left"><strong>Frontend</strong></td>
+          <td align="left">Vue.js</td>
+        </tr>
+        <tr>
+          <td align="left"><strong>Database</strong></td>
+          <td align="left">MySQL, Redis</td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
