@@ -2,7 +2,7 @@
 
 # Nomade
 
-**Backend Engineer · AI Application Builder · Open Source Contributor**
+**Backend Engineer · AI Application Builder**
 
 <a href="mailto:abing3952@gmail.com" title="Send Gmail"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="24" height="24" /></a>&nbsp;&nbsp;
 <a href="mailto:2509094405@qq.com" title="Send QQ email"><img src="https://img.icons8.com/ios-filled/48/1f6feb/new-post.png" alt="QQ Email" width="24" height="24" /></a>&nbsp;&nbsp;
