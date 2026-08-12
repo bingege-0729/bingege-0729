@@ -29,11 +29,11 @@
         </tr>
         <tr>
           <td align="left"><strong>Backend</strong></td>
-          <td align="left">Java, Spring Boot</td>
+          <td align="left">Java,Spring Boot,Golang</td>
         </tr>
         <tr>
           <td align="left"><strong>AI</strong></td>
-          <td align="left">LangChain4j</td>
+          <td align="left">LangChain4j,Spring AI</td>
         </tr>
         <tr>
           <td align="left"><strong>Frontend</strong></td>
