@@ -33,7 +33,7 @@
         </tr>
         <tr>
           <td align="left"><strong>AI</strong></td>
-          <td align="left">LangChain4j,Spring AI</td>
+          <td align="left">LangChain4j,Spring AI,Codex</td>
         </tr>
         <tr>
           <td align="left"><strong>Frontend</strong></td>
@@ -52,9 +52,9 @@
 
 | Project | Description | Tech Stack |
 | :-- | :-- | :-- |
-| **[Corner](https://github.com/bingege-0729/Corner)** | Personalized micro-mobility decisions based on emotion awareness. | Java · Spring Boot · LangChain4j · Vue |
-| **[WenJi](https://github.com/bingege-0729/WenJi)** | AI platform for preserving and sharing intangible cultural heritage through knowledge Q&A and multimodal interaction. | Java · Spring Boot · Vue · LangChain4j · Redis |
-| **[take-out](https://github.com/bingege-0729/take-out)** | Campus food-delivery system covering ordering and order management. | Java · MySQL · Redis |
+| **[Corner](https://github.com/bingege-0729/Corner)** | 个人情绪微型出行工具| Java · Spring Boot · LangChain4j · Vue |
+| **[WenJi](https://github.com/bingege-0729/WenJi)** | 集成AI智能问答的非遗平台 | Java · Spring Boot · Vue · LangChain4j · Redis |
+| **[take-out](https://github.com/bingege-0729/take-out)** | 学校外卖平台 | Java · MySQL · Redis |
 
 ## Contribution Activity
 
