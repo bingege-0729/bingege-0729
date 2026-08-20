@@ -17,8 +17,8 @@
     <td width="50%" align="center" valign="top">
       <strong>Most Used Languages</strong><br /><br />
       <a href="https://github.com/stats-organization/github-stats-extended">
-      ![Top Languages](./profile/top-langs.svg)
-        <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bingege-0729&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent" alt="Most used languages" />
+      <img width="100%" src="https://raw.githubusercontent.com/bingege-0729/bingege-0729/main/profile/top-langs.svg" alt="Most used languages including private repositories" />
+        <!-- <img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bingege-0729&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent" alt="Most used languages" /> -->
       </a>
     </td>
     <td width="50%" align="center" valign="top">
