@@ -53,9 +53,8 @@
 
 | Project | Description | Tech Stack |
 | :-- | :-- | :-- |
-| **[Corner](https://github.com/bingege-0729/Corner)** | 个人情绪微型出行工具| Java · Spring Boot · LangChain4j · Vue |
-| **[WenJi](https://github.com/bingege-0729/WenJi)** | 集成AI智能问答的非遗平台 | Java · Spring Boot · Vue · LangChain4j · Redis |
-| **[take-out](https://github.com/bingege-0729/take-out)** | 学校外卖平台 | Java · MySQL · Redis |
+| **[WenJi](https://github.com/VibingzZZ/WenJi)** | 集成AI的智能问答的非遗平台 | 团队获得软件创新省二等奖 |
+| **[Corner](https://github.com/bingege-0729/Corner)** | 个人情绪微型出行工具 | Java · Spring Boot · LangChain4j · Vue |
 
 ## Contribution Activity
 
