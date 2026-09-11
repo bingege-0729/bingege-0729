@@ -10,6 +10,16 @@
 
 </div>
 
+## Featured Projects
+
+<div align="center">
+
+| Project | Description | Archievement |
+| :-- | :-- | :-- |
+| **[WenJi](https://github.com/VibingzZZ/WenJi)** | 集成AI的智能问答的非遗平台 | 团队获得软件创新省二等奖 |
+| **[Corner](https://github.com/bingege-0729/Corner)** | 个人情绪微型出行工具 | Java · Spring Boot · LangChain4j · Vue |
+
+</div>
 <h2>Development Overview</h2>
 
 <table width="100%" align="center">
@@ -48,13 +58,6 @@
     </td>
   </tr>
 </table>
-
-## Featured Projects
-
-| Project | Description | Tech Stack |
-| :-- | :-- | :-- |
-| **[WenJi](https://github.com/VibingzZZ/WenJi)** | 集成AI的智能问答的非遗平台 | 团队获得软件创新省二等奖 |
-| **[Corner](https://github.com/bingege-0729/Corner)** | 个人情绪微型出行工具 | Java · Spring Boot · LangChain4j · Vue |
 
 ## Contribution Activity
 
