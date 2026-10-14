@@ -18,6 +18,7 @@
 | :-- | :-- | :-- |
 | **[WenJi](https://github.com/VibingzZZ/WenJi)** | 集成AI的智能问答的非遗平台 | 团队获得软件创新省二等奖 |
 | **[Corner](https://github.com/bingege-0729/Corner)** | 个人情绪微型出行工具 | Java · Spring Boot · LangChain4j · Vue |
+| **[Ops-pilot](https://github.com/Abing-0729/OpsPilot)**| 关于项目运维的AI平台| SpringCloud · Docker · Langchain4j · Vue|
 
 </div>
 <h2>Development Overview</h2>
