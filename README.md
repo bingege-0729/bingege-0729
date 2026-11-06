@@ -6,19 +6,10 @@
 
 <a href="mailto:abing3952@gmail.com" title="Send Gmail"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="24" height="24" /></a>&nbsp;&nbsp;
 <a href="mailto:2509094405@qq.com" title="Send QQ email"><img src="https://img.icons8.com/ios-filled/48/1f6feb/new-post.png" alt="QQ Email" width="24" height="24" /></a>&nbsp;&nbsp;
-<a href="https://blog.csdn.net/anonymous_zb" title="Visit CSDN blog"><img src="https://cdn.simpleicons.org/csdn/FC5531" alt="CSDN Blog" width="24" height="24" /></a>
+<a href="https://blog.csdn.net/anonymous_zb" title="Visit CSDN blog"><img src="https://cdn.simpleicons.org/csdn/FC5531" alt="CSDN Blog" width="24" height="24" /></a>&nbsp;&nbsp;
+<a href="https://juejin.cn/user/3446339018697659" title="Visit juejin blog"><img src="https://cdn.simpleicons.org/juejin" width="24" height="24" /></a>
 
 </div>
-
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Archievement |
-| :-- | :-- | :-- |
-| **[WenJi](https://github.com/VibingzZZ/WenJi)** | 集成AI的智能问答的非遗平台 | 团队获得软件创新省二等奖 |
-| **[Corner](https://github.com/bingege-0729/Corner)** | 个人情绪微型出行工具 | Java · Spring Boot · LangChain4j · Vue |
-| **[Ops-pilot](https://github.com/Abing-0729/OpsPilot)**| 关于项目运维的AI平台| SpringCloud · Docker · Langchain4j · Vue|
 
 </div>
 <h2>Development Overview</h2>
@@ -41,7 +32,7 @@
         </tr>
         <tr>
           <td align="left"><strong>Backend</strong></td>
-          <td align="left">Java,Spring Boot,Golang</td>
+          <td align="left">Java,Golang</td>
         </tr>
         <tr>
           <td align="left"><strong>AI</strong></td>
@@ -49,11 +40,11 @@
         </tr>
         <tr>
           <td align="left"><strong>Frontend</strong></td>
-          <td align="left">Vue.js</td>
+          <td align="left">Vue</td>
         </tr>
         <tr>
-          <td align="left"><strong>Database</strong></td>
-          <td align="left">MySQL, Redis</td>
+          <td align="left"><strong>Other</strong></td>
+          <td align="left">MySQL,Redis,RabbitMQ</td>
         </tr>
       </table>
     </td>
